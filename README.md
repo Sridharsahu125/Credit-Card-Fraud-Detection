@@ -65,7 +65,7 @@ How to Run the Project
 Clone the repository:
 
 Copy code
-git clone https://github.com/Sridharsahu125/Credit-Card-Fraud-Detection.git
+[git clone https://github.com/Sridharsahu125/Credit-Card-Fraud-Detection.git](https://github.com/Sridharsahu125/Credit-Card-Fraud-Detection/blob/main/credit_card_fraud_detection.ipynb)
 
 csv file :
 copy code:https://drive.google.com/file/d/1DuaIXxBnARusx6CShthOyD23gLY7-kIG/view?usp=drive_link
